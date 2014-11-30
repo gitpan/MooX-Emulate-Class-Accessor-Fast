@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution MooX-Emulate-Class-Accessor-Fast,
-version 0.01:
+version 0.02:
 
   Emulate Class::Accessor::Fast behavior using Moo attributes.
 

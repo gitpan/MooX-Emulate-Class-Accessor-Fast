@@ -1,5 +1,5 @@
 package MooX::Emulate::Class::Accessor::Fast;
-$MooX::Emulate::Class::Accessor::Fast::VERSION = '0.01';
+$MooX::Emulate::Class::Accessor::Fast::VERSION = '0.02';
 use Moo::Role;
 use strictures 1;
 

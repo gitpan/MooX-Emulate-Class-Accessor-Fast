@@ -24,4 +24,4 @@ resources:
   bugtracker: https://github.com/bluefeet/MooX-Emulate-Class-Accessor-Fast/issues
   homepage: https://github.com/bluefeet/MooX-Emulate-Class-Accessor-Fast
   repository: https://github.com/bluefeet/MooX-Emulate-Class-Accessor-Fast.git
-version: '0.01'
+version: '0.02'
